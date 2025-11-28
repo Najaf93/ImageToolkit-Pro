@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ImageToolkit-Pro
 A comprehensive Python-based image processing toolkit featuring 8 specialized tools for bulk conversion, smart renaming, background removal, and automated organization - perfect for e-commerce, digital asset management, and workflow automation.
 =======
@@ -167,7 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: Join community discussions in [GitHub Discussions](https://github.com/yourusername/ImageToolkit-Pro/discussions)
 - **Documentation**: Check our [Wiki](https://github.com/yourusername/ImageToolkit-Pro/wiki) for detailed guides
 
----
 
 **Made with ❤️ for the image processing community**
 
