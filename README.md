@@ -170,4 +170,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for the image processing community**
 
 ⭐ If this project helps you, please give it a star on GitHub!
->>>>>>> fc94cb9 (first commit)
